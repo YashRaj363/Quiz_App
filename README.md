@@ -40,17 +40,18 @@ Start Screen
 
 Quiz in Progress
 
-(Add your screenshot here)
 
-(Add your screenshot here)
+
+<img width="1086" height="828" alt="Screenshot 2025-10-07 182334" src="https://github.com/user-attachments/assets/8bdab4da-1211-4064-a0be-e469532b91ec" />
+<img width="903" height="658" alt="Screenshot 2025-10-07 182421" src="https://github.com/user-attachments/assets/2d559dc3-9b72-4cb3-a482-22f556a39392" />
 
 Correct Answer
+<img width="795" height="509" alt="Screenshot 2025-10-07 182402" src="https://github.com/user-attachments/assets/42d9f725-91da-4088-9c63-4e10f22101c0" />
+Wrong Answer
 
 Final Score
+<img width="993" height="714" alt="Screenshot 2025-10-07 182452" src="https://github.com/user-attachments/assets/7a33a212-ea06-4b7e-8d28-7dc185cc5e03" />
 
-(Add your screenshot here)
-
-(Add your screenshot here)
 
 🚀 Getting Started
 This is a front-end-only application and requires no special installation.
