@@ -1,6 +1,8 @@
 SmartQuiz: An Interactive Online Quiz Application
 A responsive and interactive front-end quiz application that tests your knowledge with a wide variety of questions fetched dynamically from the Open Trivia Database API. Customize your quiz experience by choosing the number of questions, category, difficulty level, and a timer for each question.
 
+LIVE LINK: https://bespoke-donut-b9e25a.netlify.app/
+
 ✨ Features
 Dynamic Content: Fetches questions from the Open Trivia DB API, ensuring a new set of questions every time.
 
